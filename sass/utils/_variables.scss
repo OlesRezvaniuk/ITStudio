@@ -1,0 +1,31 @@
+// colors
+$active-color:#4985FF;
+$heavy-color: #323232;
+$main-color: #999999;
+$white-color: #FFFFFF;
+$social-color: #AFB1B8;
+$bg-light-color: #F6F6F8;
+$bg-purple-color: #C4C4C4;
+$black-color: #000000;
+
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Montserrat', normal;
+    // background-color: grey;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
